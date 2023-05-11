@@ -3,6 +3,16 @@ Biomass based thermal energy generation project by M/S Ginni International Ltd
 
 Ginni International Ltd. (GIL) is a public limited company engaged in the production of high-quality textile products. It is located at Neemrana, Dist. Alwar, Rajasthan. The project activity involves the installation of the biomass-fired boiler with a cumulative capacity of 25 TPH and a 15 lakh kCal/hr thermic fluid heater (thermopack) to meet the thermal energy demand.
 
+Ginni International Ltd. (GIL) is a public limited company engaged in the production of high-quality
+textile products. It is located at Neemrana, Dist. Alwar, Rajasthan. To meet the thermal load, it operates 3
+boilers and a thermic fluid heater as mentioned in Tables 1 & 2. The date from which all the boilers and
+heaters were put into service or successful operation is taken as the date of commissioning. The
+4TPH and 8TPH are used as a standby boilers when 13 TPH boiler goes for shutdown and/or routine
+maintenance.
+The project activity aims to meet the thermal energy (steam) requirement & displace GHG emissions
+by utilizing biomass as fuel in the boilers and thermopack (different agro-residues are used in place
+of fossil fuel in the boiler)
+
 ______
 CoUs issued: 11/05/2023
 MR Period 01
